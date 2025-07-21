@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Shikhar Kumar Portfolio</title>
+  <style>
+    body { font-family: Arial; margin: 40px; background: #f2f2f2; }
+    h1 { color: #004080; }
+    .project { margin: 20px 0; padding: 15px; background: white; border-radius: 8px; }
+  </style>
+</head>
+<body>
+  <h1>👋 Hi, I'm Shikhar Kumar</h1>
+  <p>I’m a Mechanical Engineer focused on CAD Design, Simulations, and Material Innovation.</p>
+  <p>📄 <a href="https://your-link-to-resume.com">Download My CV</a></p>
+
+  <h2>📦 Projects</h2>
+
+  <div class="project">
+    <h3>Battery Frame – Master Thesis at Scania</h3>
+    <p>Designed and simulated Tepex-based battery frames for heavy-duty EVs using CATIA, Abaqus, and Ansys.</p>
+  </div>
+
+  <div class="project">
+    <h3>CAD Model – Planetary Gearbox</h3>
+    <p>Created 3D models of gearboxes with design constraints and tolerancing in SolidWorks.</p>
+  </div>
+
+  <div class="project">
+    <h3>Creative Design – Coffee Maker</h3>
+    <p>Concept-to-CAD design project exploring form, ergonomics, and 3D printing possibilities.</p>
+  </div>
+
+  <h2>📬 Contact</h2>
+  <p>Email: shikhark@kth.se</p>
+  <p>LinkedIn: <a href="https://linkedin.com/in/shikhar-kumar">Shikhar Kumar</a></p>
+</body>
+</html>
